@@ -1,0 +1,19 @@
+platform c++
+players->Rajat and Viany
+winner->Rajat
+
+
+platform c++
+players->Rajat and Vinay
+winner->Vinay
+
+
+
+Platform Java 
+Players -> Rajat and Goluu
+Winner-> Rajat
+
+
+Platform Java 
+Players -> rajat and vinay
+Winner-> rajat
